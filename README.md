@@ -1,5 +1,5 @@
 # dli_reproducibility
-Notebooks to recreate paper figures
+Notebooks to recreate paper figures. Count data and CITE data deposited at GEO.
 
 ## Figure 1
 - figure1.ipynb (1B, 1C, 1D, 1E, 1F) (done)
