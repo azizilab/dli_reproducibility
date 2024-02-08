@@ -1,29 +1,11 @@
 # dli_reproducibility
 Notebooks to recreate paper figures
 
-## scVI
-- batch correction
-- normalization
-
-## cell-cell interactions
-- cellphoneDB
-- cellchat
-
-## CITE-seq
-- cite_normalization.ipynb
-
-## CODEX preprocessing
-- registration_antspy
-- registration_basicpy
-- registration_yinuo
-- deepcell
-- anntoation/neighborhoods
-
 ## Figure 1
 - figure1.ipynb (1B, 1C, 1D, 1E, 1F) (done)
 
 ## Figure 2
-- figure2_boxplots.ipynb (2A, 2C)
+- all_boxplots.ipynb (2A, 2C)
 - DIISCO_CML (2B) (SHOUVIK)
 - DIISCO_AML (2D, 2E, 2F) (SHOUVIK)
 
@@ -37,16 +19,18 @@ Notebooks to recreate paper figures
 ## Figure 5
 - figure5_C0DEG_heatmap.ipynb (5A) (done)
 
-
 ## Figure 6
 - AML_DLI_MERGE.ipynb (Mehdi, 6A, 6B, 6C, 6D, 6E)
 - figure6_TCR_barplots.ipynb (6F)
 
 ## Figure S1
 - NUMBAT (SHOUVIK)
+- figure_S1.ipynb (S1E, S1F, S1G, S1H, S1J, S1K, S1L, S1O)
+- scVI_run.ipynb (S1D)
+- cite_seq_normalization.ipynb (S1M, S1N, S1P)
 
 ## Figure S2
-- 
+- all_boxplots.ipynb
 
 ## Figure S3
 - DIISCO (SHOUVIK)
@@ -57,20 +41,24 @@ Notebooks to recreate paper figures
 - Tcell_trajectory.ipynb (S4F, S4G, S4H, S4I) (done)
 - codex_post_processing_niche_analysis.ipynb (S4E)
 - 
-
 ## Figure S5
 - james, external validation
 
 ## Figure S6
 - AML_DLI_MERGE.ipynb (Mehdi, 6A, 6B, 6C, 6D, 6E)
 - figure6_TCR_barplots.ipynb (6F)
+- - all_boxplots.ipynb
 
 ## Supplemental files used in notebooks:
 - AML_DLI_MERGE.ipynb (Mehdi, 6A, 6B, 6C, 6D, 6E)
 - figure6_TCR_barplots.ipynb (6F)
 
 
-
+## other notebooks
+- cellphoneDB and cellchat:
+  - cellphoneDB.ipynb
+  - cellchat.R
+- 
 
 
 
