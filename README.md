@@ -43,7 +43,7 @@ Notebooks to recreate paper figures
 - figure6_TCR_barplots.ipynb (6F)
 
 ## Figure S1
-- 
+- NUMBAT (SHOUVIK)
 
 ## Figure S2
 - 
