@@ -5,7 +5,7 @@ Notebooks to recreate paper figures. Count data and CITE data deposited at GEO.
 - figure1.ipynb (1B, 1C, 1D, 1E, 1F) (done)
 
 ## Figure 2
-- all_boxplots.ipynb (2A, 2C)
+- all_boxplots.ipynb (2A, 2C) (UPLOADED - need to fix sample names)
 - DIISCO_CML (2B) (SHOUVIK)
 - DIISCO_AML (2D, 2E, 2F) (SHOUVIK)
 
@@ -13,14 +13,14 @@ Notebooks to recreate paper figures. Count data and CITE data deposited at GEO.
 - codex_post_processing_niche_analysis.ipynb
 
 ## Figure 4
-- Tcell_trajectory.ipynb (4A, 4B) (done)
+- figure4_trajectory.ipynb (4A, 4B) (UPLOADED)
 - figure4_external_validation.R (james/mehdi - 4C, 4D, 4E, need to track down this code) 
 
 ## Figure 5
-- figure5_C0DEG_heatmap.ipynb (5A) (done)
+- figure5_C0DEG_heatmap.ipynb (5A) (UPLOADED)
 
 ## Figure 6
-- AML_DLI_MERGE.ipynb (Mehdi, 6A, 6B, 6C, 6D, 6E)
+- AML_DLI_MERGE.ipynb (6A, 6B, 6C, 6D, 6E) (UPLOADED)
 - figure6_TCR_barplots.ipynb (6F)
 
 ## Figure S1
@@ -30,7 +30,7 @@ Notebooks to recreate paper figures. Count data and CITE data deposited at GEO.
 - cite_seq_normalization.ipynb (S1M, S1N, S1P)
 
 ## Figure S2
-- all_boxplots.ipynb
+- all_boxplots.ipynb (UPLOADED)
 
 ## Figure S3
 - DIISCO (SHOUVIK)
@@ -38,20 +38,19 @@ Notebooks to recreate paper figures. Count data and CITE data deposited at GEO.
 ## Figure S4
 - DIISCO (SHOUVIK)
 - AML_DLI_MERGE.ipynb (S4C)
-- Tcell_trajectory.ipynb (S4F, S4G, S4H, S4I) (done)
+- figure4_trajectory.ipynb (S4F, S4G, S4H, S4I) (UPLOADED)
 - codex_post_processing_niche_analysis.ipynb (S4E)
 - 
 ## Figure S5
 - james, external validation
 
 ## Figure S6
-- AML_DLI_MERGE.ipynb (Mehdi, 6A, 6B, 6C, 6D, 6E)
+- AML_DLI_MERGE.ipynb (6A, 6B, 6C, 6D, 6E) (UPLOADED)
 - figure6_TCR_barplots.ipynb (6F)
-- - all_boxplots.ipynb
+- all_boxplots.ipynb (UPLOADED)
 
 ## Supplemental files used in notebooks:
-- AML_DLI_MERGE.ipynb (Mehdi, 6A, 6B, 6C, 6D, 6E)
-- figure6_TCR_barplots.ipynb (6F)
+
 
 
 ## other notebooks
