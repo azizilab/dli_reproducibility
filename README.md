@@ -14,7 +14,7 @@ Notebooks to recreate paper figures. Count data and CITE data deposited at GEO u
 
 ## Figure 4
 - figure4_trajectory.ipynb (4A, 4B) (UPLOADED)
-- figure4_external_validation.R (james/mehdi - 4C, 4D, 4E, need to track down this code) 
+- aml_pd1_clean.R (4C, 4D, 4E) (UPLOADED)
 
 ## Figure 5
 - figure5_C0DEG_heatmap.ipynb (5A) (UPLOADED)
@@ -41,7 +41,8 @@ Notebooks to recreate paper figures. Count data and CITE data deposited at GEO u
 - codex_post_processing_niche_analysis.ipynb (S4E)
   
 ## Figure S5
-- james, external validation
+- aml_pd1_clean.R
+- km_test_20231002.R
 
 ## Figure S6
 - AML_DLI_MERGE.ipynb (6A, 6B, 6C, 6D, 6E) (UPLOADED)
