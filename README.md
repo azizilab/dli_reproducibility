@@ -1,4 +1,5 @@
 # dli_reproducibility
+Link to bioarXiv preprint: https://www.biorxiv.org/content/10.1101/2024.02.09.579677v1
 Notebooks to recreate paper figures. Count data and CITE data deposited at GEO upon publication. Other data used in notebooks deposited here upon publication.
 
 ## Figure 1
