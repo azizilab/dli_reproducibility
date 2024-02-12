@@ -1,5 +1,5 @@
 # dli_reproducibility
-Notebooks to recreate paper figures. Count data and CITE data deposited at GEO upon publication. Other data used in notebooks deposited here: https://drive.google.com/drive/folders/1JjOltG9TnYyWLNBdd6S8DXEBVRZArU-I?usp=share_link
+Notebooks to recreate paper figures. Count data and CITE data deposited at GEO upon publication. Other data used in notebooks deposited here upon publication.
 
 ## Figure 1
 - figure1.ipynb (1B, 1C, 1D, 1E, 1F) (UPLOADED)
