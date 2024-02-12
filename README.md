@@ -19,10 +19,10 @@ Notebooks to recreate paper figures. Count data and CITE data deposited at GEO u
 - aml_pd1_clean.R (4C, 4D, 4E)
 
 ## Figure 5
-- figure5_C0DEG_heatmap.ipynb (5A) (UPLOADED)
+- figure5_C0DEG_heatmap.ipynb (5A)
 
 ## Figure 6
-- AML_DLI_MERGE.ipynb (6A, 6B, 6C, 6D, 6E) (UPLOADED)
+- AML_DLI_MERGE.ipynb (6A, 6B, 6C, 6D, 6E) 
 - TCR.ipynb (6F) (UPLOADED but need to clean up)
 
 ## Figure S1
