@@ -1,7 +1,7 @@
 # dli_reproducibility
-Link to bioarXiv preprint: https://www.biorxiv.org/content/10.1101/2024.02.09.579677v1
+Link to publication: 
 
-Repo contains notebooks to recreate main paper figures. Count data and CITE data deposited at GEO upon publication. Other data used in notebooks deposited here upon publication.
+Repo contains notebooks to recreate main paper figures. Links to data available here upon publication.
 
 ## Figure 1
 - figure1.ipynb (1B, 1C, 1D, 1E, 1F)
@@ -29,3 +29,13 @@ Repo contains notebooks to recreate main paper figures. Count data and CITE data
 ## Figure 7
 - AML_DLI_MERGE.ipynb (6A, 6B, 6C, 6D, 6E) 
 - TCR.ipynb (6F) (UPLOADED but need to clean up)
+
+Methods developed by Azizi lab and used in paper: 
+DIISCO: 
+Decipher:
+
+Link to GEO:
+
+Link to dbGAP:
+
+Link to GCP buckets for imaging data:
