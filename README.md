@@ -30,7 +30,7 @@ Repo contains notebooks to recreate main paper figures. Links to data available 
 - AML_DLI_MERGE.ipynb (6A, 6B, 6C, 6D, 6E) 
 - TCR.ipynb (6F) (UPLOADED but need to clean up)
 
-_Methods developed by Azizi lab and used in paper:_
+_Methods developed by Azizi lab and used in paper:_ <br />
 DIISCO: [Genome Research Publication](https://genome.cshlp.org/content/34/9/1384.long), [Method](https://github.com/azizilab/DIISCO_public)
 Decipher:[bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.11.11.566719v1), [Method](https://github.com/azizilab/decipher)
 
