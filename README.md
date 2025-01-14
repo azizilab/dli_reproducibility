@@ -38,4 +38,6 @@ Link to GEO:
 
 Link to dbGAP:
 
-Link to GCP buckets for imaging data:
+Link to GCP buckets for imaging data: <br />
+[CODEX](https://console.cloud.google.com/storage/browser/dli-codex-firstround?authuser=0&project=azizilab-dli) <br />
+[Singular Genomics](https://console.cloud.google.com/storage/browser/singular-genomics-data;tab=objects?forceOnBucketsSortingFiltering=true&authuser=0&project=azizilab-dli&prefix=&forceOnObjectsSortingFiltering=false)
