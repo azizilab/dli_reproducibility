@@ -1,7 +1,7 @@
 # dli_reproducibility
-Link to publication: 
+Python scripts related to publication: [Coordinated immune networks in leukemia bone marrow microenvironments distinguish response to cellular therapy](https://doi.org/10.1126/sciimmunol.adr0782), Science Immunology. 2025. 
 
-Repo contains notebooks to recreate main paper figures. Links to data available here upon publication.
+Repo contains notebooks to recreate main paper figures. Links to data available at: [https://www.azizilab.com/immunenetworks.html](https://www.azizilab.com/immunenetworks.html)
 
 ## Figure 1
 - figure1.ipynb (1B, 1C, 1D, 1E, 1F)
@@ -34,10 +34,4 @@ _Methods developed by Azizi lab and used in paper:_ <br />
 DIISCO: [Genome Research Publication](https://genome.cshlp.org/content/34/9/1384.long), [Method](https://github.com/azizilab/DIISCO_public) <br />
 Decipher:[bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.11.11.566719v1), [Method](https://github.com/azizilab/decipher)
 
-Link to GEO:
 
-Link to dbGAP:
-
-Link to GCP buckets for imaging data: <br />
-[CODEX](https://console.cloud.google.com/storage/browser/dli-codex-firstround?authuser=0&project=azizilab-dli) <br />
-[Singular Genomics](https://console.cloud.google.com/storage/browser/singular-genomics-data;tab=objects?forceOnBucketsSortingFiltering=true&authuser=0&project=azizilab-dli&prefix=&forceOnObjectsSortingFiltering=false)
