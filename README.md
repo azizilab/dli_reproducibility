@@ -32,6 +32,6 @@ Repo contains notebooks to recreate main paper figures. Links to data available 
 
 _Methods developed by Azizi lab and used in paper:_ <br />
 DIISCO: [Genome Research Publication](https://genome.cshlp.org/content/34/9/1384.long), [Method](https://github.com/azizilab/DIISCO_public) <br />
-Decipher:[bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.11.11.566719v1), [Method](https://github.com/azizilab/decipher)
+Decipher:[bioRxiv preprint]([https://www.biorxiv.org/content/10.1101/2023.11.11.566719v1](https://www.biorxiv.org/content/10.1101/2023.11.11.566719v2)), [Method](https://github.com/azizilab/decipher)
 
 
